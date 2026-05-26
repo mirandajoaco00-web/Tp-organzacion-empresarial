@@ -1,14 +1,13 @@
-
-Vision general del proyecto de analisis de datos y estructura comercial
-
+# TP Organizacion Empresarial -Celula Comercial
+vision generla del proyecto
 ## Integrantes
+* **P1 (Hugo):** Joaquin Lionel Miranda (Líder y organizador)
+* **P2 (Paco):** Joaquin Lionel Miranda (Desarrollador Técnico)
+* **P3 (Luis):** Joaquin Lionel Miranda (Revisión y Control de Calidad)
 
-* P1 (Hugo) - Joaquin Lionel Miranda (Lider y organizador)
-* P2 (Paco) - Desarrollador Técnico
-* P3 (Luis) - Revisior y QA
+##  Estructura del Proyecto Finalizado
+* `/scripts`: Contiene el código fuente de análisis en Python (`analisis.py`).
+* `/resultados`: Contiene los reportes consolidados exportados (`reporte.txt`).
 
-## Estructura del proyecto
-
-* `/scripts`: Código fuente de los análisis en Python/R.
-* `/datos`: Sets de datos comerciales.
-* `/resultados`: Gráficos y reportes exportados. 
+##  Estado 
+El circuito de integración fue completado con éxito mediante la simulación de ramas distribuidas (`feature/desarrollo-analisis`) 
