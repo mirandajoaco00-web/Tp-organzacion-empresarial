@@ -1,2 +1,11 @@
-Resultado del Analisis Estadistico
-Promedio calculado: 42.92142857142857
+=== REPORTES DE VENTAS - CELULA COMERCIAL ===
+
+Total Facturado: $3,174,000.00
+Producto mas vendido: Mouse Gamer (37 un.)
+
+Detalle mensual:
+ * Enero: $465,000.00
+ * Febrero: $505,000.00
+ * Marzo: $524,000.00
+ * Abril: $320,000.00
+ * Mayo: $1,360,000.00
