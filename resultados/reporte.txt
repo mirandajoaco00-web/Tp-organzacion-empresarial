@@ -1,0 +1,2 @@
+Resultado del Analisis Estadistico
+Promedio calculado: 42.92142857142857
